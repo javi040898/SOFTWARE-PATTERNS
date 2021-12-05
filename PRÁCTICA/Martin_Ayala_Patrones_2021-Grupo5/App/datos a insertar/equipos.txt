@@ -1,6 +1,0 @@
-1;Lakers;Los Angeles;Staples Center;Wish;Amarillo;Morado;1;50
-2;Clippers;Los Angeles;Staples Center;Coca cola;Blanco;Rosa;1;52
-3;Nets;Brooklyn;Barclays Center;Amazon;Negro;Azul;1;47
-4;Bucks;Milwaukee;Fiserv Forum;Heinekein;Verde;Blanco;1;55
-5;Celtics;Boston;Garden;Bwin;Verde;Negro;1;45
-6;Bulls;Chicago;United center;American Airlines;Rojo;Blanco;1;45
