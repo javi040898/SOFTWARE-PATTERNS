@@ -1,0 +1,6 @@
+94567315R;Jerry;Buss;Estados Unidos;jerrybuss@gmail.com;1;1453
+45648315S;Steve;Ballmer;Estados Unidos;steveballmer@gmail.com;2;4454
+91741234F;Joseph;Tsai;Estados Unidos;josephtsai@gmail.com;3;5450
+13568315R;Wes;Edens;Estados Unidos;wesedens@gmail.com;4;6457
+57896455D;Logan;Williams;Estados Unidos;LoganWilliams@gmail.com;5;7455
+14789655L;Jerry;Reinsdorf;Estados Unidos;JerryReinsdorf@gmail.com;6;8455

@@ -1,0 +1,24 @@
+91748315R;Logan;Hernandez;Director Deportivo;2012563;2027-8-24;Italia;1;LoganDirectorDeportivo@gmail.com;2456
+44954928W;Sebastian;Walker;Director Deportivo;2144225;2028-7-29;Francia;2;SebastianDirectorDeportivo@gmail.com;4737
+32467167A;Elijah;Murray;Director Deportivo;1693711;2022-2-12;Francia;3;ElijahDirectorDeportivo@gmail.com;2497
+35636137G;Benjamin;Harrison;Director Deportivo;3434705;2029-1-14;USA;4;BenjaminDirectorDeportivo@gmail.com;1156
+88402809M;Stefano;Torres;Director Deportivo;3913321;2026-3-16;Ecuador;5;StefanoDirectorDeportivo@gmail.com;2247
+13774212Y;Noah;West;Director Deportivo;1359757;2023-2-20;USA;6;NoahDirectorDeportivo@gmail.com;3824
+68839707R;Zion;Jackson;Gerente;3035333;2026-11-8;Argentina;1;ZionGerente@gmail.com;4649
+19456463W;Logan;Durant;Gerente;1018771;2025-9-9;Italia;2;LoganGerente@gmail.com;2716
+105785169A;Marc;Manuteball;Gerente;1177034;2025-10-14;Canada;3;MarcGerente@gmail.com;4358
+69600638G;Joshua;Kent;Gerente;2192037;2027-2-22;Argentina;4;JoshuaGerente@gmail.com;3530
+24825889M;Russell;Miller;Gerente;3610393;2023-2-26;España;5;RussellGerente@gmail.com;2515
+108836639Y;Stefano;Manuteball;Gerente;1086852;2028-12-18;USA;6;StefanoGerente@gmail.com;1843
+61158705R;Russell;Williamson;Secretario Técnico;1643975;2021-7-29;Ecuador;1;RussellSecretarioTecnico@gmail.com;1850
+72032690W;Ethan;Johnson;Secretario Técnico;1924032;2023-9-3;Francia;2;EthanSecretarioTecnico@gmail.com;3183
+51568346A;Leon;Manuteball;Secretario Técnico;2303966;2028-7-7;Francia;3;LeonSecretarioTecnico@gmail.com;2297
+11113878G;Nacho;Torres;Secretario Técnico;1408738;2027-10-31;Grecia;4;NachoSecretarioTecnico@gmail.com;2824
+30126585M;Isaiah;Trump;Secretario Técnico;1231178;2023-8-30;España;5;IsaiahSecretarioTecnico@gmail.com;4546
+88912829Y;Andrew;Young;Secretario Técnico;2304670;2027-6-24;Canada;6;AndrewSecretarioTecnico@gmail.com;2006
+47357188R;Logan;Jones;Asesor;3588803;2026-11-27;Canada;1;LoganAsesor@gmail.com;2540
+34243373W;Daniel;Ball;Asesor;2133640;2025-1-24;Canada;2;DanielAsesor@gmail.com;3043
+99089588A;Michael;Hernandez;Asesor;2219584;2028-4-29;Argentina;3;MichaelAsesor@gmail.com;4165
+98762075G;Elijah;Torres;Asesor;2490965;2028-3-12;USA;4;ElijahAsesor@gmail.com;1347
+12551660M;Lucas;Williams;Asesor;3474941;2029-11-25;USA;5;LucasAsesor@gmail.com;1298
+40497346Y;Elijah;Johnson;Asesor;2468969;2027-3-22;Mexico;6;ElijahAsesor@gmail.com;1875

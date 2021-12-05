@@ -1,0 +1,30 @@
+90026686R;Marc;Trump;Entrenador;11171468;2026-4-26;Colombia;Defensa al hombre;1;MarcTrump@gmail.com;4537
+91166701W;Pascal;Durant;Entrenador;5526203;2029-6-29;Ecuador;Small ball;2;PascalDurant@gmail.com;1647
+81739369A;Liam;Allen;Entrenador;8772688;2026-3-2;USA;Defensa al hombre;3;LiamAllen@gmail.com;1443
+14668418G;Samuel;Torres;Entrenador;5127023;2021-8-5;Colombia;Small ball;4;SamuelTorres@gmail.com;1901
+15359985M;Alexander;West;Entrenador;1122299;2026-9-24;Argentina;Defensa en zona;5;AlexanderWest@gmail.com;3488
+42180416Y;Nacho;Lee;Entrenador;13819807;2024-2-7;Francia;Pick and roll;6;NachoLee@gmail.com;4201
+64834429R;Isaac;Kent;Asistente;774271;2028-3-20;Ecuador;Triple;1;IsaacKent@gmail.com;2019
+37948153W;Matthew;Johnson;Asistente;691339;2028-9-3;Italia;Triple;2;MatthewJohnson@gmail.com;4207
+59413777A;Isaac;Hernandez;Asistente;673950;2027-4-2;Ecuador;Defensa al hombre;3;IsaacHernandez@gmail.com;1774
+30330784G;Aiden;Marquez;Asistente;636428;2028-5-29;Mexico;Defensa al hombre;4;AidenMarquez@gmail.com;2104
+26706430M;Sebastian;Manuteball;Asistente;734032;2028-12-27;Mexico;Pick and roll;5;SebastianManuteball@gmail.com;4308
+45900508Y;Jordan;Jackson;Asistente;545685;2025-3-27;Canada;Defensa en zona;6;JordanJackson@gmail.com;1849
+56690858R;Zion;Hernandez;Preparador físico;660730;2022-3-7;Francia;Pick and roll;1;ZionHernandez@gmail.com;1739
+85842404W;Lucas;Gasol;Preparador físico;666877;2026-6-14;Mexico;Triple;2;LucasGasol@gmail.com;3426
+85611453A;Logan;Cole;Preparador físico;510912;2022-5-2;Italia;Small ball;3;LoganCole@gmail.com;3019
+42235291G;Lucas;Taylor;Preparador físico;612791;2028-9-17;Colombia;Pick and roll;4;LucasTaylor@gmail.com;4736
+27784740M;Kevin;Marquez;Preparador físico;723045;2026-11-21;Argentina;Pick and roll;5;KevinMarquez@gmail.com;2460
+35476909Y;Liam;Jones;Preparador físico;520666;2023-11-4;Canada;Pick and roll;6;LiamJones@gmail.com;1203
+18163641R;Noah;Allen;Médico;714714;2026-10-13;Colombia;Defensa al hombre;1;NoahAllen@gmail.com;4785
+73830994W;Samuel;Durant;Médico;745213;2024-4-4;España;Small ball;2;SamuelDurant@gmail.com;3334
+36105921A;Ricky;Lewis;Médico;524816;2021-9-29;USA;Defensa al hombre;3;RickyLewis@gmail.com;1255
+109784525G;Sebastian;Bryant;Médico;595971;2028-9-24;Colombia;Pick and roll;4;SebastianBryant@gmail.com;4297
+107886416M;Stefano;Murray;Médico;769916;2025-10-30;Argentina;Small ball;5;StefanoMurray@gmail.com;2665
+12833348Y;Manson;Harrison;Médico;793620;2022-12-16;Canada;Small ball;6;MansonHarrison@gmail.com;2426
+66248141R;Liam;Kennedy;Fisioterapeuta;508025;2024-2-12;Canada;Pick and roll;1;LiamKennedy@gmail.com;3025
+35575568W;Ryan;Davies;Fisioterapeuta;527699;2026-12-6;Ecuador;Triple;2;RyanDavies@gmail.com;3069
+60427130A;Marc;García;Fisioterapeuta;757746;2028-12-25;Canada;Defensa en zona;3;MarcGarcía@gmail.com;4709
+12476301G;Ethan;García;Fisioterapeuta;668344;2022-9-8;Italia;Triple;4;EthanGarcía@gmail.com;1909
+59928819M;Ryan;Lee;Fisioterapeuta;640530;2027-6-7;USA;Small ball;5;RyanLee@gmail.com;4056
+98552394Y;Lonzo;Davies;Fisioterapeuta;697744;2025-6-23;Colombia;Small ball;6;LonzoDavies@gmail.com;1456

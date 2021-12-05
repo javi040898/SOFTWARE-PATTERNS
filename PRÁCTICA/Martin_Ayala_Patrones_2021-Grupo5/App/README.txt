@@ -1,0 +1,1 @@
+El código fuente aplicación se encuentra en el directorio PLPatrones

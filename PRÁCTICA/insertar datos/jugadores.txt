@@ -1,0 +1,72 @@
+11047418T;21;Gianis;Kent;16;6;5;2023-6-8;Argentina;Alero;14236222;Cedido;1;Gianis21@gmail.com;1997
+48887998R;27;Stephen;Cole;9;8;7;2027-11-10;Mexico;Base;18049177;Cedido;2;Stephen27@gmail.com;3663
+85394201W;20;Sebastian;Brown;23;7;8;2021-10-21;Canada;Alero;10393135;En propiedad;2;Sebastian20@gmail.com;1477
+86825175A;71;Samuel;Torres;26;2;6;2027-10-22;Argentina;Pívot;11592075;Cedido;5;Samuel71@gmail.com;4557
+84378338G;23;Theodore;Manuteball;16;8;1;2028-11-27;Argentina;Pívot;24717329;En propiedad;5;Theodore23@gmail.com;2861
+86414933M;78;Christian;Wallace;27;3;3;2022-6-29;Argentina;Pívot;8705210;En propiedad;1;Christian78@gmail.com;2127
+33724019Y;82;Gianis;Taylor;5;8;4;2029-7-16;Italia;Ala Pívot;17429139;En propiedad;1;Gianis82@gmail.com;2950
+25418388F;63;Benjamin;Miller;7;3;1;2021-12-5;Italia;Ala Pívot;24411893;En propiedad;6;Benjamin63@gmail.com;3054
+54382129P;32;James;West;8;9;4;2024-3-6;Francia;Base;24073600;En propiedad;5;James32@gmail.com;4139
+93219635D;6;Matthew;Thomas;20;5;4;2028-12-3;Grecia;Base;20853218;Cedido;3;Matthew6@gmail.com;1975
+29434065X;37;Jordan;García;21;5;7;2023-11-24;Canada;Escolta;28728970;En propiedad;1;Jordan37@gmail.com;3235
+64392553B;55;Andrew;Harris;11;4;9;2022-2-20;Canada;Pívot;10401328;Cedido;4;Andrew55@gmail.com;4728
+53938813N;82;Carter;García;17;6;2;2025-6-2;Canada;Pívot;27803960;Cedido;6;Carter82@gmail.com;3094
+41483660J;30;Pascal;Manuteball;23;3;5;2027-1-29;Colombia;Base;21838084;En propiedad;3;Pascal30@gmail.com;2067
+61335333Z;70;Alexander;White;20;8;7;2026-11-4;Francia;Pívot;12865337;En propiedad;1;Alexander70@gmail.com;1361
+83850913S;15;Andrew;Williams;17;5;2;2028-1-29;Mexico;Pívot;27703930;En propiedad;2;Andrew15@gmail.com;1448
+24123154Q;64;Russell;Cole;24;7;8;2026-10-4;Francia;Escolta;17058652;En propiedad;6;Russell64@gmail.com;1299
+97259891V;14;Mario;Wallace;14;2;8;2021-9-5;Grecia;Escolta;29788913;En propiedad;1;Mario14@gmail.com;4606
+66696668H;23;Lucas;Griffin;26;8;5;2025-2-19;Mexico;Ala Pívot;5568944;En propiedad;1;Lucas23@gmail.com;3373
+42148562L;1;Russell;Wallace;21;1;7;2024-4-18;USA;Base;24270916;En propiedad;2;Russell1@gmail.com;2058
+61531002C;73;Benjamin;Gordon;13;5;2;2028-2-10;Colombia;Alero;8446784;En propiedad;6;Benjamin73@gmail.com;3896
+31814398K;32;Marc;Taylor;19;3;2;2026-1-5;Mexico;Base;27819221;En propiedad;6;Marc32@gmail.com;1067
+65101458E;49;Liam;White;28;7;3;2023-11-30;USA;Ala Pívot;26307562;En propiedad;6;Liam49@gmail.com;1522
+104101028T;24;Isaac;Durant;10;4;7;2023-6-15;Canada;Escolta;24892184;En propiedad;1;Isaac24@gmail.com;1838
+72218156R;77;Ethan;Cole;26;5;3;2025-8-24;Grecia;Escolta;26536205;En propiedad;1;Ethan77@gmail.com;4748
+19375865W;90;Lebron;Trump;26;2;3;2027-10-16;USA;Escolta;10736348;En propiedad;6;Lebron90@gmail.com;3739
+63688881A;72;Isaac;Jordan;21;6;2;2023-2-7;Italia;Pívot;3911265;En propiedad;5;Isaac72@gmail.com;2833
+35667883G;32;Isaiah;Bryant;25;8;8;2024-7-13;Argentina;Alero;10214530;En propiedad;5;Isaiah32@gmail.com;1123
+105765479M;57;Geronimo;Brown;27;6;9;2024-8-15;España;Ala Pívot;21045606;En propiedad;4;Geronimo57@gmail.com;3938
+49811255Y;97;Javier;Harrison;24;7;6;2025-2-27;España;Escolta;24478995;En propiedad;6;Javier97@gmail.com;1822
+45623517F;67;Samuel;Ramos;16;5;6;2028-12-1;Mexico;Pívot;21847728;En propiedad;6;Samuel67@gmail.com;2842
+46413232P;29;Logan;Jackson;29;5;2;2021-7-18;Italia;Escolta;16792633;En propiedad;2;Logan29@gmail.com;3801
+76675523D;39;Carter;Griffin;24;7;7;2021-4-25;Argentina;Alero;21788315;En propiedad;3;Carter39@gmail.com;3745
+28594065X;48;Gianis;Durant;22;1;4;2025-10-18;Francia;Base;17069169;En propiedad;5;Gianis48@gmail.com;2909
+13891166B;42;Zion;Ball;7;6;6;2023-11-2;Argentina;Ala Pívot;6139202;En propiedad;5;Zion42@gmail.com;2532
+93955127N;53;Christian;Ford;27;9;7;2025-7-6;Mexico;Pívot;18238878;En propiedad;4;Christian53@gmail.com;1336
+92122229J;28;Oliver;Cole;22;5;1;2023-11-4;España;Escolta;3393118;En propiedad;4;Oliver28@gmail.com;3078
+83404130Z;5;Lebron;García;18;5;2;2026-6-29;España;Base;11588458;En propiedad;3;Lebron5@gmail.com;1596
+50897497S;65;Liam;Kent;24;1;9;2028-7-4;Argentina;Ala Pívot;25706716;En propiedad;3;Liam65@gmail.com;4876
+50651117Q;93;Mario;Jackson;27;5;4;2027-3-21;Colombia;Pívot;28214835;En propiedad;6;Mario93@gmail.com;4025
+95016748V;63;Lucas;Williams;12;9;7;2028-7-31;España;Pívot;25699435;En propiedad;4;Lucas63@gmail.com;2240
+46795643H;35;Christian;Marquez;9;9;8;2028-5-23;España;Ala Pívot;13568426;En propiedad;5;Christian35@gmail.com;1122
+70850173L;18;James;Murray;23;4;8;2026-5-26;USA;Pívot;29127256;En propiedad;3;James18@gmail.com;1922
+71927235C;66;Benjamin;Brown;14;4;3;2029-7-15;Francia;Alero;29340246;En propiedad;2;Benjamin66@gmail.com;2308
+99418772K;59;Russell;Ramos;27;3;7;2022-12-8;Grecia;Base;19502574;En propiedad;6;Russell59@gmail.com;4017
+37592693E;63;Logan;Gordon;29;8;7;2023-7-28;Italia;Ala Pívot;5221085;En propiedad;3;Logan63@gmail.com;1122
+86533911T;29;Kevin;Young;19;1;4;2025-7-7;Argentina;Pívot;6396111;En propiedad;2;Kevin29@gmail.com;1948
+97942985R;26;Jacob;Thomas;18;9;3;2023-3-12;España;Base;26084610;En propiedad;3;Jacob26@gmail.com;3275
+41514232W;0;Carter;Lee;27;8;9;2028-6-8;Colombia;Pívot;2009302;En propiedad;2;Carter0@gmail.com;1231
+20019269A;26;Stefano;Davies;16;6;8;2021-10-27;Colombia;Ala Pívot;22127728;En propiedad;4;Stefano26@gmail.com;2944
+84841895G;90;Zion;Davies;26;2;6;2025-5-19;Italia;Alero;3299287;En propiedad;5;Zion90@gmail.com;4997
+65694942M;49;Nacho;Taylor;6;8;3;2027-7-9;Argentina;Alero;18351946;En propiedad;5;Nacho49@gmail.com;2905
+93696540Y;83;Geronimo;Kent;20;1;1;2021-11-25;Colombia;Pívot;21954821;En propiedad;5;Geronimo83@gmail.com;3241
+79043340F;60;Daniel;Morales;25;2;4;2026-10-7;Italia;Escolta;17353107;En propiedad;4;Daniel60@gmail.com;1434
+106305848P;55;James;Ramos;8;3;7;2023-12-30;Canada;Pívot;16419800;En propiedad;2;James55@gmail.com;1979
+107196821D;52;Oliver;Durant;23;4;9;2025-4-6;Canada;Base;25771138;En propiedad;4;Oliver52@gmail.com;3113
+91730103X;57;Kevin;Miller;26;1;9;2023-4-9;Francia;Pívot;28829304;En propiedad;2;Kevin57@gmail.com;2304
+13012321B;71;David;White;15;1;1;2023-1-3;Italia;Escolta;8456756;En propiedad;4;David71@gmail.com;4729
+52870993N;31;Theodore;Westbrook;28;7;8;2025-6-21;Mexico;Escolta;6626903;En propiedad;3;Theodore31@gmail.com;3504
+61033949J;32;David;Harrison;25;3;2;2024-10-28;Francia;Base;10662180;En propiedad;6;David32@gmail.com;4347
+105541051Z;91;Marc;Bryant;13;9;5;2027-3-22;Mexico;Ala Pívot;2065452;En propiedad;5;Marc91@gmail.com;3282
+10379764S;94;Elijah;Trump;8;5;9;2025-9-24;Ecuador;Pívot;3534456;En propiedad;2;Elijah94@gmail.com;3264
+105290994Q;31;Alberto;King;7;6;1;2028-12-29;Canada;Base;1128706;En propiedad;3;Alberto31@gmail.com;3783
+29375306V;81;William;Murray;12;4;4;2028-4-1;Ecuador;Ala Pívot;13262985;En propiedad;3;William81@gmail.com;3244
+42871698H;17;Liam;Ramos;19;2;1;2027-8-17;Ecuador;Ala Pívot;6348121;En propiedad;4;Liam17@gmail.com;4862
+46170983L;43;James;Kent;6;2;4;2024-1-14;Argentina;Base;9240157;En propiedad;2;James43@gmail.com;4105
+16771943C;29;Lebron;Gibson;28;4;8;2022-12-8;Colombia;Base;1806361;En propiedad;3;Lebron29@gmail.com;4140
+70436403K;26;Lonzo;Torres;13;4;6;2024-4-24;USA;Ala Pívot;25071869;En propiedad;6;Lonzo26@gmail.com;4783
+11851576E;28;Logan;Brown;10;1;3;2023-10-12;Francia;Base;11422877;En propiedad;2;Logan28@gmail.com;3294
+105807728T;81;William;Murray;23;8;3;2026-12-26;USA;Alero;20712367;En propiedad;4;William81@gmail.com;4648
+62873291R;25;Marc;Thomas;27;6;9;2024-8-11;Ecuador;Pívot;21591937;En propiedad;1;Marc25@gmail.com;4100
+27421437W;46;Samuel;White;25;4;9;2021-1-25;España;Alero;14087607;En propiedad;1;Samuel46@gmail.com;3400
